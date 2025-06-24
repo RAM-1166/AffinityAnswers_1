@@ -1,5 +1,4 @@
 pip install beautifulsoup4 requests
-# olx_scraper.py
 
 import requests
 from bs4 import BeautifulSoup
